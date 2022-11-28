@@ -9,7 +9,9 @@ if (results <= 0.33) {
     dogFeeder = "Matt"
     console.log(`${dogFeeder} will take care of the dogs tomorrow morning`)
 } else if(results > 0.33) {
+    dogFeeder = "Matt"
     console.log(`${dogFeeder} will take care of the dogs tomorrow morning`)
 } else {
+    dogFeeder = "Matt"
     console.log(`${dogFeeder} will take care of the dogs tomorrow but might drink your booze about it`)
 }
